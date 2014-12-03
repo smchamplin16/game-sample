@@ -1,0 +1,24 @@
+{
+  "name": "game-sample",
+  "version": "0.0.0",
+  "description": "testing game module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smchamplin16/game-sample.git"
+  },
+  "keywords": [
+    "game",
+    "test",
+    "sample"
+  ],
+  "author": "Samira <smchamplin16@blakeschool.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smchamplin16/game-sample/issues"
+  },
+  "homepage": "https://github.com/smchamplin16/game-sample"
+}
