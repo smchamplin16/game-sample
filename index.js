@@ -1,4 +1,4 @@
 module.exports = function(){
-	console.log("working");
-	return "hello, world!";
+	console.log("RUNNING");
+	return window.prompt("Choose a server name");
 };
